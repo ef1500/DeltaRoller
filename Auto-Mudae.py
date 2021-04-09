@@ -44,7 +44,7 @@ client = commands.Bot(command_prefix = '>',case_insensitive=True)
 async def on_reaction_add(reaction, user):
     if reaction.message.author.id == mudae_id:
         msg = reaction.message
-        if "kakera" in str(reaction.emoji):
+        if 'kakera' in str(reaction.emoji):
             await msg.add_reaction(emoji=reaction.emoji)
 
 #listen for a message from mudae

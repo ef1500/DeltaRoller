@@ -1,4 +1,5 @@
 # Auto Work for Unbelievaboat
+# Written by ef1500
 
 import requests
 import time
@@ -39,3 +40,25 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Best Regards,
+#            ~ef1500
+#
+#             :*******************
+#             :M$$MV***********V$M
+#               *N$I*          :IF
+#                 VN$M*
+#                  :V$$I*
+#                    *I$$F:
+#                      *M$$V           :VFVV*
+#                      :VF*:            *VVN$M:
+#                    *VV*                  :M$M:
+#                 :*V*:                     *N$I:
+#               :VV*            :V:          V$$F:
+#             *FV*::::::::::::::V$*         V$NN$F:
+#            *$$$$$$$$$$$$$$$$$$$$*        *$N**$$V
+#             ::::::::::::::::::::        *$N*  V$$*
+#                                        *N$*    V$N*
+#                                       *$N*      V$N*
+#                                      *N$*        F$N*
+#                                      :*:          ***
